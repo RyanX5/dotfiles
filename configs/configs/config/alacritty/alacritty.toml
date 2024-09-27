@@ -1,0 +1,11 @@
+import = [
+  "/usr/lib/node_modules/alacritty-themes/themes/Argonaut.toml"
+]
+
+[font]
+normal.family = "JetBrains Mono"
+bold.family = "JetBrains Mono"
+italic.family = "JetBrains Mono"
+bold_italic.family = "JetBrains Mono"
+
+size = 11.0
